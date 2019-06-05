@@ -25,5 +25,5 @@ def _reverse(node):
 if __name__ == "__main__":
 
     data = [1,2,3,4,5]
-    linked_list = Node(data, None)
-    print reverse(linked_list)
+    node = Node(data, None)
+    print reverse(node)
