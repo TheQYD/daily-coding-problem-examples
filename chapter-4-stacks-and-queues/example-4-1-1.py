@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+# This example is the method I used to solve the problem.
+
 class Stack:
     def __init__(self):
         self.stack = []
